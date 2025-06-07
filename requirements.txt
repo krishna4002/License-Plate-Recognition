@@ -1,0 +1,9 @@
+roboflow
+torch
+opencv-python
+numpy
+Pillow
+easyocr
+streamlit
+roboflow
+seaborn
