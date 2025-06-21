@@ -50,8 +50,8 @@ License Plate Recognition/
 ### 1. Clone the Repo and Install Dependencies
 
 ```bash
-git clone https://github.com/your-username/license-plate-recognition
-cd license-plate-recognition
+git clone https://github.com/your-username/License-Plate-Recognition
+cd License-Plate-Recognition
 pip install -r requirements.txt
 ```
 
